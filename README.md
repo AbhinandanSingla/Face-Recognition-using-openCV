@@ -24,10 +24,3 @@ for Running faceCapture in terminal use the command
 ## Step 2: Face Detection
 
 ##### Run the `FaceDetection.py` script in terminal using `python FaceDetection.py` command or can simply run in Pycharm
-
-# Contribution:
-* Jaskiran Kaur Walia(102283023) : Made the main FaceDetection script to detect and recognise the face.
-
-* Komal(102283043) and Nancy(102283037): Made the FaceCapture Script to take the sample of faces.
-
-* Serra Verma(102103731): Made the Documentation of this project.
